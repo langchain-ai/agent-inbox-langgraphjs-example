@@ -2,6 +2,9 @@
 
 The repository contains a bare minimum code example to get started with the Agent Inbox with LangGraph.js.
 
+> [!TIP]
+> Looking for the Python version of this example repository? Click [here](https://github.com/langchain-ai/agent-inbox-langgraph-example)
+
 ## Getting Started
 
 To get started, clone the repository:
